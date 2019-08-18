@@ -44,25 +44,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Royal Military Academy Sandhurst (2008)
 - One year leadership and management academy, prior to commissioning as a British Army infantry officer.
 
+Diploma in Arabic Language
+- University of Damascus (2007)
+
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
 **UK Foreign & Commmonwealth Office** (Jan 2017 - Mar 2019)    
-*Counter-extremism Strategic Communications Advisor for Syria*  
-- Based in British Consulate Istanbul
-- 
+*Counter-extremism Strategic Communications Advisor for Iraq*  
+- Based in British Embassy Baghdad
+- Managed £13mil per year multinationally funded counter-extremism programme for Iraq.  Programme focussed on the role of social media in driving societal and individual behaviour change in Iraq.
+- Advisor on government communications to multiple Government of Iraq entities inc Prime Ministers' Office, Ministry of Interior, Office of the National Security Advisor.
 
-*Iraq Strategic Communications Advisor*
-- Based in the British Embassy Baghdad
+*Syria Strategic Communications Advisor*
+- Based in the British Consulate Istanbul
 
 **British Army** (Mar 2008 - Jan 2017)   
 *British Army Officer*  
-- Including operational deployments to Afghanistan, Libya, Iraq
+- Including operational deployments to Afghanistan, Libya, Iraq.
+- Primary focus on Psychological Operations
+
 - Any experience relevent to software development
 
 ## Hobbies
 
-Sailing, squash, drawing
+Travel (72 countries and counting), hiking, sailing, squash, drawing, languages (fluent in Arabic).
 
 Any cool stuff that makes you a super part of a software development team
