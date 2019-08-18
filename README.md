@@ -1,8 +1,11 @@
-## Your Name
+## Thomas Ross
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
+
+- Project management
+- Communications
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -23,33 +26,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jul - Nov 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford University, Lady Margaret Hall College (2001 - 2004)
 
-- Subject, any specialisms
-- Grade
+- Biological Sciences, majoring in animal behavioural evolution and statistics
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
+
+Royal Military Academy Sandhurst (2008)
+- One year leadership and management academy, prior to commissioning as a British Army infantry officer.
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**UK Foreign & Commmonwealth Office** (Jan 2017 - Mar 2019)    
+*Counter-extremism Strategic Communications Advisor for Syria*  
+- Based in British Consulate Istanbul
+- 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+*Iraq Strategic Communications Advisor*
+- Based in the British Embassy Baghdad
+
+**British Army** (Mar 2008 - Jan 2017)   
+*British Army Officer*  
+- Including operational deployments to Afghanistan, Libya, Iraq
 - Any experience relevent to software development
 
 ## Hobbies
+
+Sailing, squash, drawing
 
 Any cool stuff that makes you a super part of a software development team
