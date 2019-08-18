@@ -65,6 +65,9 @@ That in some arguable way make you a better software developer or well-rounded p
 - Including operational deployments to Afghanistan, Libya, Iraq.
 - Primary focus on Psychological Operations
 
+**Secondary School Science Teacher** (2004 - 2006)
+*International Community School, Amman, Jordan*
+
 - Any experience relevent to software development
 
 ## Hobbies
